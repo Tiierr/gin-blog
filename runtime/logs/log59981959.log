@@ -1,0 +1,4 @@
+[INFO][article.go:71]2019/05/05 15:15:12 [state 状态只允许 0 或 1]
+[INFO][article.go:71]2019/05/05 15:15:12 [tag_id 标签 ID 必须大于 0]
+[INFO][article.go:71]2019/05/05 15:48:09 [state 状态只允许 0 或 1]
+[INFO][article.go:71]2019/05/05 15:48:09 [tag_id 标签 ID 必须大于 0]
